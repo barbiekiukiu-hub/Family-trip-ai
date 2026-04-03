@@ -1,0 +1,57 @@
+Last login: Fri Apr  3 17:37:17 on ttys000
+kiuu...@Chans-MacBook my_travel_app % New-Item app.py
+zsh: command not found: New-Item
+kiuu...@Chans-MacBook my_travel_app % nano requirements.txt
+kiuu...@Chans-MacBook my_travel_app % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
